@@ -102,3 +102,5 @@ collaboration among different people.
 > >     problems.
 > {: .solution}
 {: .challenge}
+
+Dickson Law was here.
